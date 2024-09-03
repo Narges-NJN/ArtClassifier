@@ -1,5 +1,5 @@
 # ArtClassifier
-Classifying art images into 5 type (Paintings, Drawings, Engraving, Sculptures, Iconagrophy) cathegories and 3 styles (Japanesse Art, Primitive, Neoclassicism), data set from kaggle (Art Type ~10,000 images , 5 Classes; Art Style: ~3,000 images, 3 Classes) <br />
+Classifying art images into 5 type (Paintings, Drawings, Engraving, Sculptures, Iconagrophy) cathegories and 3 styles (Japanesse Art, Primitive, Neoclassicism), data set from kaggle [Art Type]([https://website-name.com](https://www.kaggle.com/datasets/thedownhill/art-images-drawings-painting-sculpture-engraving)) and [Art Style]([https://website-name.com](https://www.kaggle.com/datasets/sivarazadi/wikiart-art-movementsstyles/data)) <br />
 In the following pictures you can see a summary of the work:
 ![5](https://github.com/user-attachments/assets/98563693-a1e5-43f8-b05d-25df7cc77809)
 ![6](https://github.com/user-attachments/assets/9de84cd7-95f5-43a9-8c5b-0c3bd1a56bc0)
