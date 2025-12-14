@@ -1,5 +1,24 @@
 # ArtClassifier
-Classifying art images into 5 type (Paintings, Drawings, Engraving, Sculptures, Iconagrophy) cathegories and 3 styles (Japanesse Art, Primitive, Neoclassicism), data set from kaggle [Art Type](https://www.kaggle.com/datasets/thedownhill/art-images-drawings-painting-sculpture-engraving) and [Art Style](https://www.kaggle.com/datasets/sivarazadi/wikiart-art-movementsstyles/data)<br />
+
+This project implements a deep learning–based **art classification system** capable of categorizing artworks into five main types and, when applicable, further predicting painting styles.
+
+It performs **two-stage classification**:
+
+1. **Art Type Classification**
+   - Drawings
+   - Engraving
+   - Iconography
+   - Painting
+   - Sculpture
+
+2. **Painting Style Classification** (only if the artwork is classified as a painting)
+   - Japanese Art
+   - Neoclassicism
+   - Primitivism
+
+The models are built using **Keras (TensorFlow backend)** and leverage **Convolutional Neural Networks (CNNs)**, including a **VGG16-based architecture** for style classification.
+
+The data set used is from kaggle [Art Type](https://www.kaggle.com/datasets/thedownhill/art-images-drawings-painting-sculpture-engraving) and [Art Style](https://www.kaggle.com/datasets/sivarazadi/wikiart-art-movementsstyles/data)<br />
 In the following pictures you can see a summary of the work:
 ![5](https://github.com/user-attachments/assets/98563693-a1e5-43f8-b05d-25df7cc77809)
 ![6](https://github.com/user-attachments/assets/9de84cd7-95f5-43a9-8c5b-0c3bd1a56bc0)
